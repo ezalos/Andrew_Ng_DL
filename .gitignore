@@ -47,5 +47,6 @@ cover/*
 MANIFEST
 
 # Per-project virtualenvs
+Andrew/
 .venv*/
 .conda*/
